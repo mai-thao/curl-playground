@@ -1,2 +1,2 @@
 # curl-playground
-Learning about cURL
+Learning about [cURL](https://curl.se/)
